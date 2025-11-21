@@ -1,7 +1,9 @@
-import 'package:dart_week5/optional_default.dart';
+import 'package:dart_week5/anonymous_function.dart';
 
 void main() {
-  callInfo1();
+  fruitInfo();
+  //callSay();
+  //callInfo1();
   //callInfo();
   //callPrint();
   //calfunction();
